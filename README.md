@@ -1,7 +1,7 @@
 ### Oii! Me chamo Laura Lima! 👋
 
 - 🌱 Atualmente sou estudante de Desenvolvimento Web na Trybe e faço parte da Turma XP
-- 👩‍💻 No momento estou aprendendo JavaScript
+- 👩‍💻 No momento estou aprendendo React
 
 <div align="center">
   <a href="https://github.com/Thisislauralima">
