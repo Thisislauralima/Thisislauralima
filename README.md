@@ -1,8 +1,12 @@
 ### Oii! Me chamo Laura Lima! 👋
 
 - 🌱 Atualmente sou estudante de Desenvolvimento Web na Trybe e faço parte da Turma XP
-- 👩‍💻 No momento estou estudando Node no back-end
-
+- 👩‍💻 No momento estou estudando Node no Back-End
+- 🎯 Metas para 2022: aprimorar cada vez mais lógica de programação
+- 🥸 Curiosidade: adoro treinar lógica no leet code!
+- 🤓 Um pouco sobre mim: amo música (especialmente indie) e maratonar Netflix
+ 
+[https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white]
 <div align="center">
   <a href="https://github.com/Thisislauralima">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thisislauralima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -17,8 +21,10 @@
    <img align="center" alt="Laura-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
 </div>
   
-  ##
   
+## Conecte-se comigo:
+
+[<img align="left" | LinkedIn width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>]
 <div>
  <a href="https://www.linkedin.com/in/laura-lima-santos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
