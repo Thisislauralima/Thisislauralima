@@ -6,7 +6,7 @@
 - 🥸 Curiosidade: adoro treinar lógica no leet code!
 - 🤓 Um pouco sobre mim: amo música (especialmente indie) e maratonar Netflix 🍿
  
-<div align="center">
+<!-- <div align="center"> -->
 <!--   <a href="https://github.com/Thisislauralima">
   <img height="30" width="40" src="https://camo.githubusercontent.com/9496882abd182958bcea4238ab44f7eb8928d7a4144c150f18f6c55ceb9b4490/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176617363726970742e737667"/>
 </div>
@@ -19,7 +19,7 @@
    <img align="center" alt="Laura-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
   <img align="center" alt="Laura-CSS" height="30" width="40" src="https://camo.githubusercontent.com/b9279edfece526123a96af67ea002acdd47e84e5ad05126faa08ab3332f8a9ef/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f646f636b65722e737667"/> -->
  <div style="display: inline_block"><br>
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"/>
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 </div>
   
   
