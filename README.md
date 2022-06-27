@@ -4,7 +4,7 @@
 - 👩‍💻 No momento estou estudando Node no Back-End
 - 🎯 Metas para 2022: aprimorar cada vez mais lógica de programação
 - 🥸 Curiosidade: adoro treinar lógica no leet code!
-- 🤓 Um pouco sobre mim: amo música (especialmente indie) e maratonar Netflix
+- 🤓 Um pouco sobre mim: amo música (especialmente indie) e maratonar Netflix 🍿
  
 <div align="center">
   <a href="https://github.com/Thisislauralima">
