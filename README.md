@@ -24,5 +24,5 @@
 ## Conecte-se comigo:
  
 <div>
- <a href="https://www.linkedin.com/in/laura-lima-santos" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank"></a> 
+ <a href="https://www.linkedin.com/in/laura-lima-santos" target="_blank"><img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank"></a> 
 </div>
