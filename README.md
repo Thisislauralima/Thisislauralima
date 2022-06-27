@@ -22,8 +22,7 @@
   
   
 ## Conecte-se comigo:
-
-[<img align="left" | LinkedIn width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>]
+ 
 <div>
- <a href="https://www.linkedin.com/in/laura-lima-santos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://www.linkedin.com/in/laura-lima-santos" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank"></a> 
 </div>
