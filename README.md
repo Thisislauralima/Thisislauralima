@@ -6,7 +6,6 @@
 - 🥸 Curiosidade: adoro treinar lógica no leet code!
 - 🤓 Um pouco sobre mim: amo música (especialmente indie) e maratonar Netflix
  
-[https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white]
 <div align="center">
   <a href="https://github.com/Thisislauralima">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thisislauralima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
