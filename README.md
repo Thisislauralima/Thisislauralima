@@ -1,4 +1,4 @@
-### Oii! Me chamo Laura Lima!👋
+### Oii! Me chamo Laura Lima! 👋
 
 - 🌱 Atualmente sou estudante de Desenvolvimento Web na Trybe e faço parte da Turma XP
 - 👩‍💻 No momento estou estudando Node no Back-End
