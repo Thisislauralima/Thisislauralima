@@ -6,10 +6,10 @@
 - 🤓 Um pouco sobre mim: amo música (especialmente indie) e maratonar Netflix 🍿
  
  <div display="flex">
-  <div>
+  <div width="50%">
    <img src="https://github-readme-stats.vercel.app/api?username=Thisislauralima&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats"/>
   </div>
-  <div>
+  <div width="50%">
    <img src="https://github-readme-stats.vercel.app/api?username=Thisislauralima&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Thisislauralima&langs_count=8&theme=gruvbox)](https://github.com/Thisislauralima/github-readme-stats)"/>
   </div>
  </div>
