@@ -5,9 +5,16 @@
 - 🎯 Metas para 2022: aprimorar cada vez mais lógica de programação
 - 🤓 Um pouco sobre mim: amo música (especialmente indie) e maratonar Netflix 🍿
  
- <div width="100%"><img src="https://github-readme-stats.vercel.app/api?username=Thisislauralima&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats"/></div>
+ <div display="flex">
+  <div>
+   <img src="https://github-readme-stats.vercel.app/api?username=Thisislauralima&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats"/>
+  </div>
+  <div>
+   <img src="https://github-readme-stats.vercel.app/api?username=Thisislauralima&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Thisislauralima&langs_count=8&theme=gruvbox)](https://github.com/Thisislauralima/github-readme-stats)"/>
+  </div>
+ </div>
 <!--   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thisislauralima&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) -->
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thisislauralima&langs_count=8&theme=gruvbox)](https://github.com/Thisislauralima/github-readme-stats)
+<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thisislauralima&langs_count=8&theme=gruvbox)](https://github.com/Thisislauralima/github-readme-stats) -->
 
  <div style="display: inline_block"><br>
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
