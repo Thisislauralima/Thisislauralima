@@ -27,5 +27,5 @@
  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
 </div>
 
-### Conecte-se comigo: | Linkedin contact:
+### 🇧🇷 Conecte-se comigo | 🇺🇸 Linkedin contact
 <a href="https://www.linkedin.com/in/laura-lima-santos/"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
