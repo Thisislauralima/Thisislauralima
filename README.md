@@ -4,7 +4,9 @@
 - 👩‍💻 At present I'm learning REST API's using Express on Node.js
 - 🎯 2022 goals: get my first job as a Web Software Developer
 - 🤓 Funfacts: I really love music (specially indie) and watch some Netflix 🍿
-<br />
+
+<br>
+
 - 🇧🇷 Atualmente sou estudante de Desenvolvimento Web na Trybe e faço parte da Turma XP
 - 👩‍💻 No momento estou estudando API's REST no Node.js
 - 🎯 Metas para 2022: conseguir primeiro emprego como Desenvolvedora Web
