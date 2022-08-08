@@ -2,14 +2,12 @@
 
 - 🇺🇸 At the moment I'm studying Web Development at Trybe
 - 👩‍💻 At present I'm learning REST API's using Express on Node.js
-- 🎯 2022 goals: get my first job as a Web Software Developer
 - 🤓 Funfacts: I really love music (specially indie) and watch some Netflix 🍿
 
 <br>
 
 - 🇧🇷 Atualmente sou estudante de Desenvolvimento Web na Trybe e faço parte da Turma XP
 - 👩‍💻 No momento estou estudando API's REST no Node.js
-- 🎯 Metas para 2022: conseguir primeiro emprego como Desenvolvedora Web
 - 🤓 Um pouco sobre mim: amo música (especialmente indie) e maratonar Netflix 🍿
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thisislauralima&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
