@@ -1,11 +1,12 @@
 # Olá! Me chamo Laura Lima! 👋
 ## Algumas tecnologias que uso no dia a dia: 
  <div style="display: inline_block"><br>
+  
+  <img height="30" width="95" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img height="30" width="95" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/>
- <img height="30" width="95" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img height="30" width="95" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
- <img height="30" width="95" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
- <img height="30" width="95" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  <img height="30" width="95" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img height="30" width="95" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
 </div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thisislauralima&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
